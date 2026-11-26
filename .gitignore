@@ -1,0 +1,4 @@
+build/
+lancensus
+lancensus.bpf.o
+*.o
