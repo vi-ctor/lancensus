@@ -92,7 +92,7 @@ all three stages on every push.
 
 ## Author
 
-Victor Cheng
+Victor Cheng — available for Linux kernel networking and eBPF consulting: https://vi-ctor.github.io/consulting/
 
 ## License
 
