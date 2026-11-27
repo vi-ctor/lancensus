@@ -1,5 +1,7 @@
 # lancensus
 
+[![ci](https://github.com/vi-ctor/lancensus/actions/workflows/ci.yml/badge.svg)](https://github.com/vi-ctor/lancensus/actions/workflows/ci.yml)
+
 **Passive LAN device discovery with eBPF.** See every printer, scanner, IP
 camera, NAS and other networked device on a segment — hostnames, friendly
 names, models, advertised services, DHCP fingerprints — **without sending a
